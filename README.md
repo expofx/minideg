@@ -4,7 +4,11 @@ Mini implementation and experiments for ["Data-Efficient Graph Grammar Learning 
 
 ![](fig.png)
 
-Neo4j (idea to store generalized prod rules similar to AlphaFold MSA)
+Neo4j (store generalized prod rules for efficient sampling, similar to AlphaFold MSA)
 
 ![neo](https://user-images.githubusercontent.com/56745453/203874324-3a17aa38-77bc-409c-a22e-15e02d8ba58c.png)
 ![neo2](https://user-images.githubusercontent.com/56745453/203874336-80c5fd78-f5e7-42c6-8010-dea7707b5079.png)
+
+---
+
+Special thanks to [John Henning](https://github.com/jlhbaseball15) for guidance and the opportunity to work on this!
